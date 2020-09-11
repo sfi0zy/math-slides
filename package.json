@@ -1,0 +1,14 @@
+{
+  "name": "math-slides",
+  "version": "1.0.0",
+  "description": "Slides for the lectures on math for UI developers",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sfi0zy/math-slides.git"
+  },
+  "author": "Ivan Bogachev",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}

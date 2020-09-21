@@ -3,7 +3,7 @@
 This tool was created for the series of articles called "Math is not required for UI development". Its main purpose was to generate a series of png images with graphs, matrices, simple 3D examples, image filters and texts in the style of the school desk. Feel free to fork it and use it for your lectures too.
 
 ![Preview of the first lecture](https://hsto.org/webt/fc/_4/s1/fc_4s1h7xarzjtz6dfqvjkvpzla.jpeg)
-![Preview of the second lecture](https://hsto.org/webt/fr/wu/cz/frwuczbo209np2f6t_ejluzgokw.jpeg)
+![Preview of the second lecture](https://hsto.org/webt/dx/u3/85/dxu3850_uhhpgfs_7wgcmyfi6fe.jpeg)
 
 ## List of the original articles in Russian (will be updated)
 

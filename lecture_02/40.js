@@ -6,7 +6,7 @@ export default class Slide40 extends SlideIllustrated {
     constructor(canvas) {
         super(canvas);
 
-        this.drawNumber('XXXX');
+        this.drawNumber('XL');
 
         this.drawImage(400, 60, 'lenna');
         this.drawImage(400, 430, 'lenna');

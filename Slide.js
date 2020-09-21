@@ -75,32 +75,10 @@ export default class Slide {
     }
 
 
-    drawDot(x, y) {
-
-    }
-
-
-    drawLine(x0, y0, x1, y1) {
-
-    }
-
-
-    drawCoordinates() {
-
-    }
-
-
-    drawGraph(fx) {
-
-    }
-
-
-    drawGraphPolar(fp) {
-
-    }
-
-    drawGraphParametric(ftx, fty, tmax) {
-
+    drawBox(x, y, width, height) {
+        this.context.beginPath();
+        this.context.rect(x, y, width, height);
+        this.context.stroke();
     }
 }
 

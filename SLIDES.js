@@ -18,6 +18,26 @@ import Slide17 from './lecture_01/17.js';
 import Slide18 from './lecture_01/18.js';
 import Slide19 from './lecture_01/19.js';
 import Slide20 from './lecture_01/20.js';
+import Slide21 from './lecture_02/21.js';
+import Slide22 from './lecture_02/22.js';
+import Slide23 from './lecture_02/23.js';
+import Slide24 from './lecture_02/24.js';
+import Slide25 from './lecture_02/25.js';
+import Slide26 from './lecture_02/26.js';
+import Slide27 from './lecture_02/27.js';
+import Slide28 from './lecture_02/28.js';
+import Slide29 from './lecture_02/29.js';
+import Slide30 from './lecture_02/30.js';
+import Slide31 from './lecture_02/31.js';
+import Slide32 from './lecture_02/32.js';
+import Slide33 from './lecture_02/33.js';
+import Slide34 from './lecture_02/34.js';
+import Slide35 from './lecture_02/35.js';
+import Slide36 from './lecture_02/36.js';
+import Slide37 from './lecture_02/37.js';
+import Slide38 from './lecture_02/38.js';
+import Slide39 from './lecture_02/39.js';
+import Slide40 from './lecture_02/40.js';
 
 const SLIDES = Object.freeze({
     LECTURE_01: [
@@ -41,6 +61,28 @@ const SLIDES = Object.freeze({
         Slide18,
         Slide19,
         Slide20,
+    ],
+    LECTURE_02: [
+        Slide21,
+        Slide22,
+        Slide23,
+        Slide24,
+        Slide25,
+        Slide26,
+        Slide27,
+        Slide28,
+        Slide29,
+        Slide30,
+        Slide31,
+        Slide32,
+        Slide33,
+        Slide34,
+        Slide35,
+        Slide36,
+        Slide37,
+        Slide38,
+        Slide39,
+        Slide40,
     ]
 });
 

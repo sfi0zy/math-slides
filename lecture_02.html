@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Lecture 02</title>
+
+        <style>
+            canvas, img {
+                display: block;
+                margin: 50px auto;
+                background: #8f664b;
+            }
+        </style>
+    </head>
+    <body>
+        <div id='presentation'></div>
+        <img id='lenna' src='lenna.png'>
+        <script src='https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js'></script>
+        <script type='module'>
+
+            import Presentation from './Presentation.js';
+            import SLIDES from './SLIDES.js';
+
+            WebFont.load({
+                google: {
+                    families: ['Architects Daughter']
+                },
+                active: () => {
+                    const root = document.getElementById('presentation');
+                    const presentation = new Presentation(root, SLIDES.LECTURE_02);
+
+                    presentation.render();
+                    // presentation.renderReverse();
+                    // presentation.renderLastSlide();
+                }
+            });
+
+        </script>
+    </body>
+</html>

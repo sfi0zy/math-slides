@@ -8,7 +8,7 @@ This tool was created for the series of articles called "Math is not required fo
 ## List of the original articles in Russian (will be updated)
 
 - [Математика верстальщику не нужна, или Временные функции и траектории для покадровых 2D анимаций на сайтах](https://habr.com/ru/post/518006/)
-- [Математика верстальщику не нужна 2: Матрицы, базовые трансформации, построение 3D и фильтры для картинок](https://habr.com/ru/post/518006/)
+- [Математика верстальщику не нужна 2: Матрицы, базовые трансформации, построение 3D и фильтры для картинок](https://habr.com/ru/post/520078/)
 
 ## Images being used in the examples
 

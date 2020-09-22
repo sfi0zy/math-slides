@@ -12,13 +12,13 @@ export default class Slide22 extends Slide {
         this.drawText('•', 320, 175, 'left');
         this.drawMatrix(340, 100, [['x'], ['y'], ['z']]);
         this.drawText('→', 420, 175, 'left');
-        this.drawText('   = 1 • x + 0 • y + 0 • 1 =  ', 470, 140, 'left');
-        this.drawText('   = 0 • x + 1 • y + 0 • 1 =  ', 470, 170, 'left');
+        this.drawText('   = 1 • x + 0 • y + 0 • z =  ', 470, 140, 'left');
+        this.drawText('   = 0 • x + 1 • y + 0 • z =  ', 470, 170, 'left');
         this.drawText('   = 0 • x + 0 • y + 1 • z =  ', 470, 200, 'left');
 
         this.setColor(COLORS.accent);
-        this.drawText('x\'                           x', 470, 140, 'left');
-        this.drawText('y\'                           y', 470, 170, 'left');
+        this.drawText('x\'                            x', 470, 140, 'left');
+        this.drawText('y\'                            y', 470, 170, 'left');
         this.drawText('z\'                            z', 470, 200, 'left');
 
         this.setColor(COLORS.light);
